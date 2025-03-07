@@ -13,4 +13,4 @@ Key Features:
 ## How to play
 Download the repository, which contains 2 file:
 - gamescreen.mov: gameply video for demo
-- TurtleRun.apk: the actual file we need to play the game. In SideQuest, connect to the VR headset using a cable and upload this apk file. Then we can find the game in the "Installed application" tab on the menu and enjoy the game! 
+- TurtleRun.apk: the actual file we need to play the game. In SideQuest, connect to the VR headset using a cable and upload this apk file. After wearing the headset, we can find the game in the "Installed application" tab on the menu and enjoy the game! 
